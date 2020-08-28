@@ -1,0 +1,6 @@
+*.gz
+*.tgz
+
+.idea/
+*jar
+packages/
